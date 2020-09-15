@@ -1,7 +1,7 @@
 ADS_COVID-19
 ==============================
-
-applied data science on COVID-19 data
+This Project is a part of Enterprise Data Science Assignment
+statistical analysis on COVID-19 data. This provides a dashboard for statistical analysis of COVID-19 Data along with the SIR modelling of the data.
 
 Project Organization
 ------------
